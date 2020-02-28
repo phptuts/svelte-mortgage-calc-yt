@@ -1,8 +1,5 @@
 # Svetle Mortgage Calculator
 
-<iframe width="560" height="315" src="https://www.youtube.com/embed/n2BiGntzVWY" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
-
-
 [demo link](https://phptuts.github.io/svelte-mortgage-calc-yt/)
 
 [video tutorial](https://www.youtube.com/watch?v=n2BiGntzVWY)
